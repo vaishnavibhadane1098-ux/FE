@@ -7,4 +7,8 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 To start the local development server, run:
 
 ```bash
+npm install
+
 ng serve
+
+
